@@ -1,0 +1,5 @@
+17:16:18	http://hadoop.apache.org/core/docs/r0.19.0/api/index.html
+17:16:19	http://hadoop.apache.org.core/docs/r0.19.0/mapred_tutorial.html
+17:16:20	http://wiki.apache.org/hadoop/GettingStartedWithHadoop
+17:16:20	http://www.maxim.com/hotties/2008/finalist_gallery.aspx
+17:16:25	http://wiki.apache.org/hadoop/
